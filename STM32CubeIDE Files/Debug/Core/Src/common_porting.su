@@ -1,0 +1,4 @@
+common_porting.c:18:6:DelayUs	24	static
+common_porting.c:31:6:bmp3_delay_us	24	static
+common_porting.c:54:8:SensorAPI_I2Cx_Read	32	static
+common_porting.c:62:8:SensorAPI_I2Cx_Write	32	static

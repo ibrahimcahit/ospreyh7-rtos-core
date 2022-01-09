@@ -1,0 +1,5 @@
+app_freertos.c:121:6:MX_FREERTOS_Init	8	static
+app_freertos.c:172:6:StartAHRS_UpdateTask	16	static
+app_freertos.c:244:6:StartBMP388Task	16	static
+app_freertos.c:264:6:StartGNSSTask	16	static
+app_freertos.c:294:6:StartMPU9250Task	16	static
